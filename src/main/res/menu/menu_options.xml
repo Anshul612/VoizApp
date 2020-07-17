@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Find People"
+        android:id="@+id/main_people_option"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item
+        android:title="Create Groups"
+        android:id="@+id/main_groups_create_option"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item
+        android:title="Update"
+        android:id="@+id/main_settings_option"
+        app:showAsAction="never"
+        >
+
+    </item>
+
+    <item
+        android:title="LogOut"
+        android:id="@+id/main_Logout_option"
+        app:showAsAction="never"
+        >
+
+    </item>
+</menu>
